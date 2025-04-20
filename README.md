@@ -114,3 +114,6 @@ If downloading fails, the application will use a fallback sample audio file.
 ## License
 
 MIT
+
+## Credits
+Augment Code
