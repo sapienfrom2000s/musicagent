@@ -117,3 +117,6 @@ MIT
 
 ## Credits
 Augment Code
+
+## Alternative
+sleep $time && spotdl $pull_from_array && mpv $pick_the_latest_created_file
